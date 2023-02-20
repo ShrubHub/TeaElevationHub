@@ -1,0 +1,113 @@
+Week,Site,Treatment,Code,Weekly_average
+1,2,"Saturated, no cover",H,14.52678571
+2,2,"Saturated, no cover",H,13.83035714
+3,2,"Saturated, no cover",H,17.15773809
+4,2,"Saturated, no cover",H,16.98809524
+5,2,"Saturated, no cover",H,14.36904762
+6,2,"Saturated, no cover",H,15.27083333
+7,2,"Saturated, no cover",H,14.89166667
+1,3,"Nothing, disturbed, no cover",D,14.86309524
+2,3,"Nothing, disturbed, no cover",D,13.92261905
+3,3,"Nothing, disturbed, no cover",D,16.92559524
+4,3,"Nothing, disturbed, no cover",D,16.88690476
+5,3,"Nothing, disturbed, no cover",D,14.25
+6,3,"Nothing, disturbed, no cover",D,15.07738095
+7,3,"Nothing, disturbed, no cover",D,14.70625
+1,4,"Nothing, disturbed, cover",D/C,15.46130952
+2,4,"Nothing, disturbed, cover",D/C,14.42261905
+3,4,"Nothing, disturbed, cover",D/C,16.61309524
+4,4,"Nothing, disturbed, cover",D/C,16.91964286
+5,4,"Nothing, disturbed, cover",D/C,14.54761905
+6,4,"Nothing, disturbed, cover",D/C,14.82142857
+7,4,"Nothing, disturbed, cover",D/C,13.55416667
+1,5,"Light water, no cover",L,15.20535714
+2,5,"Light water, no cover",L,14.59821429
+3,5,"Light water, no cover",L,16.80357143
+4,5,"Light water, no cover",L,16.97619048
+5,5,"Light water, no cover",L,14.31845238
+6,5,"Light water, no cover",L,14.59523809
+7,5,"Light water, no cover",L,13.60416667
+1,6,"No water, cover",N/C,16.82142857
+2,6,"No water, cover",N/C,15.35119048
+3,6,"No water, cover",N/C,16.74404762
+4,6,"No water, cover",N/C,16.76785714
+5,6,"No water, cover",N/C,14.47916667
+6,6,"No water, cover",N/C,14.5327381
+7,6,"No water, cover",N/C,13.77916667
+1,8,"No water, cover",N/C,16.29761905
+2,8,"No water, cover",N/C,14.57440476
+3,8,"No water, cover",N/C,16.76488095
+4,8,"No water, cover",N/C,16.93452381
+5,8,"No water, cover",N/C,14.29166667
+6,8,"No water, cover",N/C,14.69047619
+7,8,"No water, cover",N/C,13.66041667
+1,9,"Saturated, no cover",H,15.6875
+2,9,"Saturated, no cover",H,14.24107143
+3,9,"Saturated, no cover",H,16.96130952
+4,9,"Saturated, no cover",H,16.89583333
+5,9,"Saturated, no cover",H,14.36011905
+6,9,"Saturated, no cover",H,14.51488095
+7,9,"Saturated, no cover",H,13.52708333
+1,10,"Light water, no cover",L,14.61011905
+2,10,"Light water, no cover",L,13.55654762
+3,10,"Light water, no cover",L,16.47916667
+4,10,"Light water, no cover",L,17.56547619
+5,10,"Light water, no cover",L,13.86607143
+6,10,"Light water, no cover",L,14.75
+7,10,"Light water, no cover",L,14.89166667
+1,11,"Saturated, cover",S/C,14.9672619
+2,11,"Saturated, cover",S/C,13.8422619
+3,11,"Saturated, cover",S/C,16.34821429
+4,11,"Saturated, cover",S/C,17.64880953
+5,11,"Saturated, cover",S/C,14.05357143
+6,11,"Saturated, cover",S/C,14.85714286
+7,11,"Saturated, cover",S/C,14.72708333
+1,12,"No water, no cover",N,15.09821429
+2,12,"No water, no cover",N,13.11755952
+3,12,"No water, no cover",N,16.4672619
+4,12,"No water, no cover",N,17.74404762
+5,12,"No water, no cover",N,13.99404762
+6,12,"No water, no cover",N,14.88392857
+7,12,"No water, no cover",N,14.8125
+1,13,"No water, no cover",N,15.98511905
+2,13,"No water, no cover",N,14.22023809
+3,13,"No water, no cover",N,16.50297619
+4,13,"No water, no cover",N,17.9047619
+5,13,"No water, no cover",N,13.79166667
+6,13,"No water, no cover",N,15.03869048
+7,13,"No water, no cover",N,14.55208333
+1,14,Ambient,A,13.57738095
+2,14,Ambient,A,13.33333333
+3,14,Ambient,A,16.47023809
+4,14,Ambient,A,17.78273809
+5,14,Ambient,A,13.98809524
+6,14,Ambient,A,15.2797619
+7,14,Ambient,A,14.55416667
+1,15,"Saturated, cover",S/C,15.52678571
+2,15,"Saturated, cover",S/C,14.42857143
+3,15,"Saturated, cover",S/C,16.56547619
+4,15,"Saturated, cover",S/C,17.66369048
+5,15,"Saturated, cover",S/C,13.92559524
+6,15,"Saturated, cover",S/C,15.45535714
+7,15,"Saturated, cover",S/C,14.38125
+1,16,Ambient,A,16.38988095
+2,16,Ambient,A,14.35416667
+3,16,Ambient,A,16.6577381
+4,16,Ambient,A,17.25892857
+5,16,Ambient,A,14.22619048
+6,16,Ambient,A,15.4702381
+7,16,Ambient,A,14.61666667
+1,17,"Nothing, disturbed, cover",D/C,15.28571429
+2,17,"Nothing, disturbed, cover",D/C,14.00892857
+3,17,"Nothing, disturbed, cover",D/C,16.65178572
+4,17,"Nothing, disturbed, cover",D/C,17.25892857
+5,17,"Nothing, disturbed, cover",D/C,14.1577381
+6,17,"Nothing, disturbed, cover",D/C,15.33035714
+7,17,"Nothing, disturbed, cover",D/C,14.575
+1,18,"Nothing, disturbed, no cover",D,15.41369048
+2,18,"Nothing, disturbed, no cover",D,13.77083333
+3,18,"Nothing, disturbed, no cover",D,16.86309524
+4,18,"Nothing, disturbed, no cover",D,17.13690476
+5,18,"Nothing, disturbed, no cover",D,14.39285714
+6,18,"Nothing, disturbed, no cover",D,15.29166667
+7,18,"Nothing, disturbed, no cover",D,14.51458333
